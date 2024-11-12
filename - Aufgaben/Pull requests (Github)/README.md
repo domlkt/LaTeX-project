@@ -15,3 +15,5 @@ Füge in deinem Fork von diesem Repository Änderungen hinzu (z.B. ein dummy Tex
  Lese [hier](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) über Branches nach. Erstelle anschließend in deinem Fork einen neuen Branch mit Änderungen und merge diesen anschließend wieder mit dem main Branch. 
 
 Zusatz: Nenne Gründe, warum Branches in Github in der Softwareentwicklung nützlich sind.
+
+Dummy change
