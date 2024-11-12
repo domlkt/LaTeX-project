@@ -1,6 +1,6 @@
 # Quelltext einbinden
 
-Die `main.tex` Datei in diesem Ordner ist von der LaTeX Dokumentation von Overleaf und ist ein Beispiel dafür, wie man Quellcode in Overleaf einbinden kann.
+Die `main.tex` Datei in diesem Ordner ist von der LaTeX Dokumentation von Overleaf und ist ein Beispiel dafür, wie man Quellcode in LaTeX einbinden kann.
 
 # Aufgabe 
 
