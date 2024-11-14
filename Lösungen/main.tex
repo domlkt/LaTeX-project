@@ -1,0 +1,39 @@
+\documentclass{report}
+\title{LaTeX}
+\usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{amsmath}
+
+\begin{document}
+\definecolors{red}{HTML}{255, 255, 255}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+\section{Erstes Kapitel}
+\textcolor{red}{\textit{\LARGE Wort}}
+\textbf{Wort}
+\underline{Wort}
+\textbf{\textit{Wort}}
+
+\subsection{Unterkapitel}
+\subsubsection{Unterunterkapitel}
+\section{Zweites Kapitel}
+\begin{math}
+1 + 1 \neq 3 \\
+f(x) = \frac{1}{2} x^2 \\
+(\frac{n}{k}) = \frac{n!}{(n - k)! k!}\\
+f(n) = \begin{cases}
+      0, & \text{falls}\ n=0 \\
+      1, & \text{falls}\ n=1 \\
+      f(n - 1) + f(n - 2) & \text{sonst.}
+    \end{cases}\\
+\prod_{i=1}^{10} (\sum_{j=1}^{20} i * j)
+\pi \approx 3,14159
+\end{math}
+\section{Drittes Kapitel}
+
+\end{document}
+
